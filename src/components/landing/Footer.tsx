@@ -1,9 +1,9 @@
 import { Github, Linkedin, MessageCircle } from "lucide-react";
 
 const socials = [
-  { icon: Github, href: "https://github.com/gustavo", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/in/gustavo", label: "LinkedIn" },
-  { icon: MessageCircle, href: "https://wa.me/5500000000000", label: "WhatsApp" },
+  { icon: Github, href: "https://github.com/gustavodev8", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/gustavosantanadev/", label: "LinkedIn" },
+  { icon: MessageCircle, href: "https://wa.me/5575998828532", label: "WhatsApp" },
 ];
 
 const Footer = () => (
