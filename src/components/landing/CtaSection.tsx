@@ -24,12 +24,7 @@ const CtaSection = () => {
               Iniciar Projeto <ArrowRight size={18} />
             </a>
           </Button>
-          <Button
-            asChild
-            size="lg"
-            variant="outline"
-            className="rounded-full gap-2 border-white/30 text-white hover:bg-white/10"
-          >
+          <Button asChild variant="outline" size="lg" className="rounded-full gap-2 border-primary text-primary hover:bg-primary hover:text-primary-foreground">
             <a href="https://github.com/gustavodev8" target="_blank" rel="noopener noreferrer">
               Ver Portfólio <ExternalLink size={18} />
             </a>
